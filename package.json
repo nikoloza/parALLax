@@ -1,0 +1,9 @@
+{
+  "name": "parALLax",
+  "version": "0.1.0",
+  "description": "All in one parallax solutions",
+  "main": "parallax.js",
+  "repository": "git@github.com:nikoloza/parALLax.git",
+  "author": "nikoloza <nika.tomadze@gmail.com>",
+  "license": "MIT"
+}
